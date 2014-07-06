@@ -1,0 +1,21 @@
+{
+  "name": "anatomy",
+  "version": "0.0.1",
+  "description": "node express mongodb backbone",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharlesAMoss/anatomy.git"
+  },
+  "keywords": [
+    "benm"
+  ],
+  "author": "Charles Moss",
+  "bugs": {
+    "url": "https://github.com/CharlesAMoss/anatomy/issues"
+  },
+  "homepage": "https://github.com/CharlesAMoss/anatomy"
+}
